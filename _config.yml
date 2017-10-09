@@ -1,9 +1,9 @@
 # site settings
-title: Forty
-subtitle: by HTML5 UP
+title: Unity of Man
+subtitle: Be Good * Do Good * Be One
 email: youremailaddress@gmail.com
-description: A responsive site template designed by HTML5 Up<br /> and released under the Creative Commons.
-baseurl: "/forty-jekyll-theme" # the subpath of your site, e.g. /blog
+description: This target of this project is to provide the software support for the workflows in the Kirpal Sagar Charitable Hospital. It is currently in the inception stage.
+baseurl: "/" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
 author:
 street_address: 1234 Somewhere Road
@@ -12,6 +12,7 @@ state: TN
 zip_code: 55555
 country: United States of America
 phone: (716) 555-5555
+encoding: utf-8
 
 # homepage tiles
 tiles-source: posts # accepts "posts" or "pages"
@@ -20,14 +21,14 @@ tiles-count: 6
 # social settings
 500px_url:
 facebook_url:
-github_url:
-gitlab_url: https://gitlab.com/u/andrewbanchich
-googleplus_url: https://plus.google.com/u/0/+AndrewBanchich
+github_url: https://github.com/ksch-workflows
+gitlab_url: 
+googleplus_url: 
 instagram_url: https://instagram.com
-linkedin_url: https://www.linkedin.com/in/andrew-banchich-a4ba1195
+linkedin_url: 
 pinterest_url:
 slack_url:
-twitter_url: https://twitter.com/andrewbanchich
+twitter_url:
 
 # build settings
 markdown: kramdown
