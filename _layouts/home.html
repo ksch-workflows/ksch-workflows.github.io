@@ -12,6 +12,16 @@
 
     {% include header.html %}
 
+    <script language="javascript" type="text/javascript">
+
+  function popitup(url) {
+    newwindow=window.open(url,'name',config='height=500, width=741');
+    if (window.focus) {newwindow.focus()}
+
+    return false;
+  }
+  </script>
+
     <!-- Banner -->
     <section id="banner" class="major">
         <div class="inner">
@@ -21,7 +31,7 @@
             <div class="content">
                 <p style="text-transform: uppercase;">{{ site.description }}</p>
                 <ul class="actions">
-                    <li><a href="#one" class="button next scrolly">Get Started</a></li>
+                    <li><a href="#" class="button next scrolly" onclick="return popitup('https://www.youtube.com/embed/3KJjKY8k9Lk')">Video</a></li>
                 </ul>
             </div>
         </div>
