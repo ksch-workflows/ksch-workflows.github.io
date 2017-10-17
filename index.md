@@ -7,4 +7,7 @@ image: null
 author: null
 ---
 
-This project aims to provide great software support for the workflows in the [Kirpal Sagar Charitable Hospital](http://www.kirpal-sagar.org/en/medicale-care/gemeinn%C3%BCtziges-krankenhaus.html) . It is currently in the inception stage.
+If you would like to support this software project in any way, you can contact us via our [mailing list](https://groups.google.com/forum/#!forum/ksch-workflows).
+The project will possibly some day be fundened by the [Give+Give](http://www.give-and-give.org) society which supports
+the caritative activities of [Kirpal Sagar](http://www.kirpal-sagar.org) in general. So any coin donated there is
+appreciated.
