@@ -20,3 +20,9 @@ bundle exec jekyll serve
 ## Credits
 
 This website is build upon the [Beautiful Jekyll](https://github.com/daattali/beautiful-jekyll#readme) theme which is licensed under the [MIT license](https://github.com/daattali/beautiful-jekyll/blob/master/LICENSE).
+
+### Image
+The website includes the following images which are licensed under the [CC0 Creative Commons]() license.
+
+- https://pixabay.com/en/architecture-travel-castle-old-3122625/
+- https://pixabay.com/en/workplace-imac-desktop-creative-2805785/
