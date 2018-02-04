@@ -19,7 +19,7 @@ baseurl: ""
 title: K.S.C.H. Workflows
 
 # Short description of your site
-description: IT for the support of the workflows in the Kirpal Sagar Charitable Hospital
+description: IT support for the Kirpal Sagar Charitable Hospital
 
 # --- Navigation bar options --- #
 
@@ -31,9 +31,7 @@ navbar-links:
   Documentation:
     - User Guide: "#"
     - Developer Guide: "#"
-  Background:
-    - About Kirpal Sagar: "pages/about-kirpal-sagar"
-  Imprint: "http://notes.experimental-software.com/Impressum.html"
+  Background: "http://www.kirpal-sagar.org/en/medicale-care/gemeinn%C3%BCtziges-krankenhaus.html"
   Donate: "http://www.ks-plus.org/"
 
 # Image to show in the navigation bar - image must be a square (width = height)
