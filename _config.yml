@@ -1,36 +1,16 @@
-# --- General options --- #
-
-encoding: utf-8
-
-# url is the full website URL
-# baseurl is the website's URL without the hostname
-
-# If you are building a simple GitHub user page (http://username.github.io) then use these settings:
-url: "http://ksch-workflows.github.io"
-baseurl: ""
-
-# If you are building a GitHub project page then use these settings:
-#url: "http://username.github.io/projectname"
-#baseurl: "/projectname"
-
-# Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
 title: K.S.C.H. Workflows
 
-# Short description of your site
+# Bookmarkt text
 description: IT support for the Kirpal Sagar Charitable Hospital
 
-# --- Navigation bar options --- #
-
-# List of links in the navigation bar
 navbar-links:
   Overview:
     - Architecture: "pages/architecture"
-    - Tools: "pages/tools"
   Documentation:
-    - User Guide: "#"
-    - Developer Guide: "#"
+    - Analyst Guide: "pages/product-management"
+    - Developer Guide: "pages/development"
   Background: "http://www.kirpal-sagar.org/en/medicale-care/gemeinn%C3%BCtziges-krankenhaus.html"
   Donate: "http://www.ks-plus.org/"
 
@@ -80,19 +60,13 @@ social-network-links:
 #  facebook: daattali
   github: ksch-workflows
 #  twitter: youraccount
-#  reddit: yourname
 #  google-plus: +DeanAttali
 #  linkedin: daattali
 #  xing: yourname
-#  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
 #  instagram: deanat78
 #  youtube: user/deanat78
-#  spotify: yourname
 #  telephone: +14159998888
-#  steam: deanat78
-#  twitch: yourname
-#  yelp: yourname
 
 # Select which share links to show in posts
 share-links-active:
@@ -101,9 +75,20 @@ share-links-active:
   google: false
   linkedin: true
 
+# --- General options --- #
+
+encoding: utf-8
+
+# url is the full website URL
+# baseurl is the website's URL without the hostname
+
+# If you are building a simple GitHub user page (http://username.github.io) then use these settings:
+url: "http://ksch-workflows.github.io"
+baseurl: ""
+
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "ksch-workflows.github.io"  # eg. "deanattali.com/beautiful-jekyll"
+url-pretty: "ksch-workflows.github.io"
 
 # --- Web Statistics Section --- #
 

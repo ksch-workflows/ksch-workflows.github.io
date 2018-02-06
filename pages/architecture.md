@@ -11,3 +11,10 @@ us at the moment. Thus we are currently
 evaluating other options. The detailed analysis can be found in
 => [this](https://docs.google.com/document/d/1lBj7tfwJ-yD2357xLcPFe4r8hHOCJ3Oe6r_rc0Pn8IQ/edit?usp=sharing) <=
 document.
+
+# Evolutionary Architecture
+
+> Change is the only constant
+
+Evolution is about adaption to changing environments. By building our own
+software we are able to adjust it direclty according the current needs.
