@@ -18,3 +18,9 @@ document.
 
 Evolution is about adaption to changing environments. By building our own
 software we are able to adjust it direclty according the current needs.
+
+# Guidelines
+
+- [Eric Raymond’s 17 Unix Rules](https://en.wikipedia.org/wiki/Unix_philosophy#Eric_Raymond%E2%80%99s_17_Unix_Rules)
+- [Hexagonal architecture](http://alistair.cockburn.us/Hexagonal+architecture)
+- [Whoops! Where did my architecture go](http://olivergierke.de/2013/01/whoops-where-did-my-architecture-go/)
