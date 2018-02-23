@@ -6,11 +6,8 @@ title: K.S.C.H. Workflows
 description: IT support for the Kirpal Sagar Charitable Hospital
 
 navbar-links:
-  Overview:
-    - Architecture: "pages/architecture"
-  Documentation:
-    - Analyst Guide: "pages/product-management"
-    - Developer Guide: "pages/development"
+  Introduction: "pages/introduction"
+  Documentation: "pages/documentation"
   Background: "http://www.kirpal-sagar.org/en/medicale-care/gemeinn%C3%BCtziges-krankenhaus.html"
   Donate: "http://www.ks-plus.org/"
 
