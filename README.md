@@ -29,4 +29,4 @@ This website is licensed with default copyright.
 
 ## Credits
 
-This website is based upon the [Creative](https://startbootstrap.com/template-overviews/creative/) template from [startbootstrap.com/](https://startbootstrap.com/) that has the following license: Copyright 2013-2018 Blackrock Digital LLC. Code released under the [MIT](tpl/TEMPLATE_LICENSE) license.
+This website is based upon the [Creative](https://startbootstrap.com/template-overviews/creative/) template from [startbootstrap.com/](https://startbootstrap.com/) that has the following license: Copyright 2013-2018 Blackrock Digital LLC. Code released under the [MIT license](BOOTSTRAP_TEMPLATE_LICENSE).

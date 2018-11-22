@@ -1,5 +1,13 @@
 
-* Infrastrukture
+* Content
+** Open dialog with YouTube video
+
+* Layout
+** Determine better colour scheme
+
+* Infrastructure
+** Automatically compile HTML on file save
+https://superuser.com/questions/181517/how-to-execute-a-command-whenever-a-file-changes
 ** Download "mustacle-cli" into Git repo
 ** Publish to GitHub pages
 - Don't publish infrastructure files

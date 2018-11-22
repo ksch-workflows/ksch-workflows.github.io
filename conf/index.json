@@ -1,4 +1,15 @@
 {
     "__root": "index.html",
-    "__unique-value-proposition": "unique-value-proposition.html"
+
+    "__navigation": "navigation.html",
+
+    "__site-header": "sections/header.html",
+    "__unique-value-proposition": "sections/unique-value-proposition.html",
+    "__about": "sections/about.html",
+    "__portfolio": "sections/portfolio.html",
+    "__kirpal-sagar-reference": "sections/kirpal-sagar-reference.html",
+    "__contact": "sections/contact.html",
+
+    "__script-tags-body": "resources/script-tags-body.html",
+    "__custom-fonts": "resources/custom-fonts.html"
 }
