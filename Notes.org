@@ -1,0 +1,5 @@
+
+* Infrastrukture
+** Download "mustacle-cli" into Git repo
+** Publish to GitHub pages
+- Don't publish infrastructure files
