@@ -6,9 +6,11 @@
     "__site-header": "sections/header.html",
     "__unique-value-proposition": "sections/unique-value-proposition.html",
     "__about": "sections/about.html",
-    "__portfolio": "sections/portfolio.html",
+    "__background": "sections/background.html",
     "__kirpal-sagar-reference": "sections/kirpal-sagar-reference.html",
     "__contact": "sections/contact.html",
+    "__roadmap": "sections/roadmap.html",
+    "__documentation": "sections/documentation.html",
 
     "__script-tags-body": "resources/script-tags-body.html"
 }

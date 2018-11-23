@@ -1,5 +1,6 @@
 
 * Content
+** Add link to imprint
 
 * Layout
 ** Determine better colour scheme
