@@ -18,6 +18,7 @@ mustache-cli --minify --color --out-dir . ./
 ```
 
 ## References
+- https://fontawesome.com/icons?d=gallery&q=play&m=free
 - https://www.npmjs.com/package/mustache-cli
 - https://github.com/mustache/mustache
 - https://mustache.github.io/mustache.1.html
