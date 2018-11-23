@@ -5,6 +5,12 @@ It describes its purpose to interested visitors and potential contributors.
 Further it provides references to the documentation which is necessary to
 use, develop, and maintain the software.
 
+## Setup
+
+```
+npm install mustache-cli --global
+```
+
 ## Compile website
 
 ```
