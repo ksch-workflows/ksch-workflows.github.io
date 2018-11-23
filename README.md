@@ -14,7 +14,7 @@ npm install mustache-cli --global
 ## Compile website
 
 ```
-mustache-cli -p --color ./
+mustache-cli --minify --color --out-dir . ./
 ```
 
 ## References
