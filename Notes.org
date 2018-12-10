@@ -1,6 +1,6 @@
 
 * Content
-** Open dialog with YouTube video
+
 
 * Layout
 ** Determine better colour scheme
