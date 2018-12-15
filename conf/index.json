@@ -9,6 +9,8 @@
     "__hospital-image-gallery": "sections/hospital-image-gallery.html",
     "__kirpal-sagar-reference": "sections/kirpal-sagar-reference.html",
     "__contact": "sections/contact.html",
+    "__roadmap": "sections/roadmap.html",
+    "__documentation": "sections/documentation.html",
 
     "__script-tags-body": "resources/script-tags-body.html"
 }
