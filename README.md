@@ -17,6 +17,12 @@ npm install mustache-cli --global
 mustache-cli --minify --color --out-dir . ./
 ```
 
+Shortcut:
+```
+alias cw='mustache-cli --minify --color --out-dir . ./'
+cw
+```
+
 ## References
 - https://www.npmjs.com/package/mustache-cli
 - https://github.com/mustache/mustache
