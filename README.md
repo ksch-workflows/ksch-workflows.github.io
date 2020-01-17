@@ -8,7 +8,7 @@ use, develop, and maintain the software.
 ## Setup
 
 ```
-npm install mustache-cli --global
+sudo npm install mustache-cli --global
 ```
 
 ## Compile website
